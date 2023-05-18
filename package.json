@@ -1,7 +1,7 @@
 {
-  "name": "Astro-Md",
+  "name": "Virus-Md",
   "version": "7.0.0",
-  "description": "Multi device whatsapp bot.",
+  "description": "Virus Multi device whatsapp bot.",
   "main": "index.js",
   "type": "commonjs",
   "license": "GPL-3.0",
@@ -16,8 +16,8 @@
 "keywords": [
 "whatsapp"
 ],
-"author": "VihangaYT",
-"developer": "VihangaYT",
+"author": "PARK-JI-SANG",
+"developer": "PARK-JI-SANG",
 "homepage": "https://github.com/vihangayt0/Astro-MD-V6",
 "dependencies": {
 "@adiwajshing/baileys": "^5.0.0",
